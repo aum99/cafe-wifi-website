@@ -1,0 +1,51 @@
+Cafe name,Coffee taste,Power availability,Wifi availability,address,city
+Pune Baking Company,⭐️⭐️⭐️,Y,Y,"Senapati Bapat Road, Pune 411053 India",pune
+Vohuman Cafe,⭐️⭐️⭐️⭐️,Y,Y,"No. 34, Pune Railway Station, Sassoon Road Near Jehangir Nursing Home, Pune 411001 India",pune
+Cafe Goodluck,⭐️⭐️⭐️,N,N,"759/75 Goodluck Chowk Fergussion College Road Corner of FC Road, Pune 411004 India",pune
+Starkbucks ,⭐️⭐️⭐️⭐️,Y,Y,"Fergusson College Road, Pune 411004 India",pune
+Marzorin,⭐️⭐️⭐️⭐️,Y,Y,"6 M G Road Bakthiar Plaza, Pune 411001 India",pune
+Le Plaisir,⭐️⭐️⭐️⭐️,Y,N,"759/125 Prabhat Road Opposite Kelkar Eye Hospital, Pune 411004 India",pune
+One O Eight Cafe,⭐️⭐️⭐️⭐️,N,Y,"Level 1, Business Square, Lane 5, Koregaon Park. Above Nature's Basket, Pune 411001 India",pune
+Commune 8,⭐️⭐️⭐️,Y,Y,"Sangamwadi, Pune",pune
+Cafe Peter,⭐️⭐️,Y,Y,"Opp. to Symbiosis Institute of Management Studies, Viman nagar, Pune",pune
+Zen Cafe,⭐️⭐️⭐️,Y,Y,"Beside Espace, Upper Kharadi, Pune",pune
+Garde Manger Cafe,⭐️⭐️⭐️⭐️,Y,Y,"Shop No: 1, Parmar Housing Society, Paranjape B Scheme Road No 1, Beside Natural Ice Cream",mumbai
+Prithvi Cafe,⭐️⭐️⭐️⭐️,Y,N," 20, Janki Kutir, Janki Kutir Road",mumbai
+Le 15,⭐️⭐️⭐️,N,Y,"Shop No. 18, Lansdowne House, MB Marg, Near Apollo Hotel, Opposite Lings Pavilion",mumbai
+Grandmama’s Cafe,⭐️⭐️⭐️⭐️,Y,Y," No. 20&21, Pritam Estate, Dr. BA Road",mumbai
+Zesto,⭐️⭐️⭐️⭐️,Y,Y,"Unit No. 8, Ground Floor, Trade World, B Wing, Kamala Mills Compound, Senapati Bapat Marg",mumbai
+Kala Ghoda Café,⭐️⭐️⭐️,N,Y," 10, Ropewalk Lane, Kala Ghoda",mumbai
+ Lotus Cafe,⭐️⭐️⭐️⭐️,Y,Y," JW Marriott, Juhu Tara Road",mumbai
+ Leaping Windows,⭐️⭐️⭐️⭐️⭐️,Y,Y,"3 Corner View, Dr. Ashok Chopra Marg, Off Yari Road, Opp. Bianca Towers, Versova",mumbai
+Central Perk 7,⭐️⭐️⭐️⭐️⭐️,N,Y,"Plot no. 5/6, Kharghar Station Rd, Wing F, Sector 8",mumbai
+Aromas Cafe,⭐️⭐️⭐️⭐️,N,N,"Churchgate, Mumbai",mumbai
+Hauz Khas Social,⭐️⭐️⭐️,Y,N,"9-A & 12, Hauz Khas Village, New Delhi",delhi
+Hard Rock Cafe,⭐️⭐️⭐️⭐️,Y,N,"M-110, 1st Floor, DLF Place Mall, Saket, New Delhi",delhi
+Delhi Heights,⭐️⭐️⭐️⭐️,N,Y,"9, Sardar Patel Marg, Diplomatic Enclave, Chanakyapuri, New Delhi",delhi
+"Nukkad,",⭐️⭐️⭐️,Y,Y,"C-23-24, SDA Market, SDA, New Delhi",delhi
+Raasta,⭐️⭐️⭐️⭐️,Y,Y,"A-2/A, 2nd Floor, Aurobindo Marg, Green Park, New Delhi",delhi
+Farzi Cafe,⭐️⭐️⭐️,N,N,"38/39, Level 1, Block E , Inner Circle, Connaught Place, New Delhi",delhi
+Rose Cafe,⭐️⭐️⭐️,Y,Y," 2, Westend Marg, Saidulajab",delhi
+Diggin,⭐️⭐️⭐️⭐️,N,Y,"11, Santushti Shopping Complex, Race Course Road, Chanakyapuri, New Delhi",delhi
+Di Ghent Cafe,⭐️⭐️⭐️,Y,Y,"208, Level 2, Cross Point Mall, DLF Phase 4, Gurgaon",delhi
+Cherie,⭐️⭐️⭐️⭐️,N,Y,"1501, Kalka Das Marg, Mehrauli, New Delhi",delhi
+ Coffee Cup,⭐️⭐️⭐️⭐️⭐️,Y,Y,"Above Canara Bank, Sainikpuri, Secunderabad",hyderabad
+The Roastery Coffee House,⭐️⭐️⭐️,Y,Y,"House 418, Road 14, Banjara Hills",hyderabad
+Autumn Leaf Cafe,⭐️⭐️⭐️⭐️,N,N,"Road 41, Jubilee Hills",hyderabad
+The Gallery Cafe,⭐️⭐️⭐️,N,N,"Road 10, Banjara Hills",hyderabad
+Driven Cafe,⭐️⭐️⭐️,Y,Y,"Kapil Towers, Opposite ICICI Bank, ISB Road, Financial District, Nanakramguda, Gachibowli",hyderabad
+Beyond Coffee,⭐️⭐️⭐️⭐️,N,Y,"Road 36, Jubilee Hills",hyderabad
+Karachi Cafe,⭐️⭐️⭐️,Y,N,"Multiple Outlets - Gachibowli, Hitech City, Karkhana",hyderabad
+ Chit Chat Chai ,⭐️⭐️⭐️⭐️,Y,Y," Road 37, Kavuri Hills Phase 1, CBI Colony, Jubilee Hills",hyderabad
+Cafe Graffiti,⭐️⭐️⭐️,N,Y,"Road 13, Banjara Hills",hyderabad
+Chai Kahani,⭐️⭐️⭐️⭐️⭐️,Y,Y,"Medchal Highway, Kompally; Multiple outlets ",hyderabad
+Jai’pour Cafe and Bar,⭐️⭐️⭐️,Y,Y,"Devraj Niwas, Khasa Kothi Crossing, Gopalbari, Jaipur",jaipur
+Anokhi Cafe,⭐️⭐️⭐️⭐️,Y,N,"C 11, 2nd Floor, KK Square, C Scheme, Jaipur",jaipur
+Tapri Central,⭐️⭐️⭐️,Y,Y,"B4 E, 3rd Floor, Surana Jewellers, Opposite Central Park, C Scheme, Jaipur",jaipur
+ O2- The plant cafe,⭐️⭐️⭐️,Y,N,"C 29, 4th Floor, Pankaj Singhvi Marg, Lal Kothi, Jaipur",jaipur
+On the house,⭐️⭐️⭐️⭐️⭐️,N,Y,"E 145, Ramesh Marg, Behind Talwalkars, C Scheme, Jaipur",jaipur
+Nibs Cafe,⭐️⭐️⭐️,Y,N,"B-16 Durgadas Colony, Next to MGF Mall, Bhawani Singh Road, C Scheme, Jaipur",jaipur
+Brown Sugar Cafe and Lounge,⭐️⭐️⭐️,Y,Y,"Aurum Apartment, Tilak Marg, C Scheme, Jaipur",jaipur
+Taruveda Bistro,⭐️⭐️⭐️⭐️,Y,N,"1st Floor, Sunraj Villa",jaipur
+Loft18,⭐️⭐️⭐️,Y,Y,"18A, Above Mahatma Gandhi Hospital, Govind Marg, Raja Park, Jaipur",jaipur
+The Stag Restro Cafe and Lounge,⭐️⭐️⭐️⭐️⭐️,Y,Y,"Opposite Amer Fort, Amer, Jaipur",jaipur

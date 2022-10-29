@@ -1,0 +1,173 @@
+{% include "header.html" %}
+    <!-- Navbar End -->
+
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0 mb-5">
+        <div id="blog-carousel" class="carousel slide overlay-bottom" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="w-100" src="static/images/carousel-1.jpg" alt="Image">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <h2 class="text-primary font-weight-medium m-0">We believe a cup of</h2>
+                        <h1 class="display-1 text-white m-0">COFFEE</h1>
+                        <h2 class="text-white m-0">is one of the simplest pleasures in life✨</h2>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="w-100" src="static/images/carousel-2.jpg" alt="Image">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <h2 class="text-primary font-weight-medium m-0">To a wise man</h2>
+                        <h1 class="display-1 text-white m-0">A CUP OF COFFEE </h1>
+                        <h2 class="text-white m-0">is like the door post of an old house -- it sustains and strengthens him</h2>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#blog-carousel" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#blog-carousel" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+    </div>
+    <!-- Carousel End -->
+
+
+    <!-- About Start -->
+    <div class="container-fluid py-5">
+        <div class="container">
+            <div class="section-title">
+                <h4 class="text-primary text-uppercase" style="letter-spacing: 5px;">About Us</h4>
+                <br>
+                <div class="row justify-content-center">
+                <form class="d-flex" role="search", method="post">
+                        {{form.hidden_tag() }}
+                        {{ form.cafe_name(class="form-control", placeholder="Search for your cafe or city")}}
+                        {{ form.search(class="btn btn-dark") }}
+                    </form>
+                </div>
+                <br>
+                <h1 class="display-4">Connecting hoomans with coffee❤️</h1>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 py-0 py-lg-5">
+                    <h1 class="mb-3">Our Story</h1>
+                    <h5 class="mb-3"></h5>
+                    <p>Finding a perfect workspace for you that has all items in your checklist. We started with a goal to show people places where they could work with calm and soothing environment and provide best coffee shop in town</p>
+                    <a href="" class="btn btn-secondary font-weight-bold py-2 px-4 mt-2">Learn More</a>
+                </div>
+                <div class="col-lg-4 py-5 py-lg-0" style="min-height: 500px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute w-100 h-100" src="static/images/about.png" style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-4 py-0 py-lg-5">
+                    <h1 class="mb-3">Our Vision</h1>
+                    <p>We have 3 simple agenda's</p>
+                    <h5 class="mb-3"><i class="fa fa-check text-primary mr-3"></i>Cater best coffee in town</h5>
+                    <h5 class="mb-3"><i class="fa fa-check text-primary mr-3"></i>Help people socialize and connect</h5>
+                    <h5 class="mb-3"><i class="fa fa-check text-primary mr-3"></i>Platform of recognition for shops</h5>
+                    <a href="" class="btn btn-primary font-weight-bold py-2 px-4 mt-2">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+    <!-- Trending Start -->
+    <div class="container-fluid pt-5">
+        <div class="container">
+            <div class="section-title">
+                <h4 class="text-primary text-uppercase" style="letter-spacing: 5px;">TOP CAFES THAT ARE TRENDING ALL OVER INDIA</h4>
+                <h1 class="display-4">HOT AND TRENDING</h1>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="row align-items-center mb-5">
+                        <div class="col-4 col-sm-3">
+                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-1.jpg" alt="">
+                            <h5 class="menu-price">$5</h5>
+                        </div>
+                        <div class="col-8 col-sm-9">
+                            <h4>Black Coffee</h4>
+                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
+                        </div>
+                    </div>
+                    <div class="row align-items-center mb-5">
+                        <div class="col-4 col-sm-3">
+                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-2.jpg" alt="">
+                            <h5 class="menu-price">$7</h5>
+                        </div>
+                        <div class="col-8 col-sm-9">
+                            <h4>Chocolete Coffee</h4>
+                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
+                        </div>
+                    </div>
+                    <div class="row align-items-center mb-5">
+                        <div class="col-4 col-sm-3">
+                            <img class="w-100 rounded-circle mb-3 mb-sm-0" src="img/menu-3.jpg" alt="">
+                            <h5 class="menu-price">$9</h5>
+                        </div>
+                        <div class="col-8 col-sm-9">
+                            <h4>Coffee With Milk</h4>
+                            <p class="m-0">Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Menu End -->
+
+
+    <!-- Reservation Start -->
+    <div class="container-fluid my-5">
+        <div class="container">
+            <div class="reservation position-relative overlay-top overlay-bottom">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 my-5 my-lg-0">
+                        <div class="p-5">
+                            <div class="mb-4">
+                                <h1 class="display-3 text-primary">30% OFF</h1>
+                                <h1 class="text-white">For Online Reservation</h1>
+                            </div>
+                            <p class="text-white">Book your table through us and avail amazing offers at the cafe.</p>
+                            <ul class="list-inline text-white m-0">
+                                <li class="py-2"><i class="fa fa-check text-primary mr-3"></i>Get free drinks</li>
+                                <li class="py-2"><i class="fa fa-check text-primary mr-3"></i>Get a vip seating</li>
+                                <li class="py-2"><i class="fa fa-check text-primary mr-3"></i>Arrange party for your loved ones</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="text-center p-5" style="background: rgba(51, 33, 29, .8);">
+                            <h1 class="text-white mb-4 mt-5">Book Your Table</h1>
+                            <form class="mb-5", method="post">
+                                {{ rv.hidden_tag() }}
+                                {{ rv.cafe_name(class="form-control bg-transparent border-primary p-4", placeholder="Name of the cafe") }}
+                                <br>
+                                {{ rv.name(class="form-control bg-transparent border-primary p-4", placeholder="Name") }}
+                                <br>
+                                {{ rv.email(class="form-control bg-transparent border-primary p-4", placeholder="Email") }}
+                                <br>
+                                {{ rv.date_time(class="form-control bg-transparent border-primary p-4", placeholder="Date and Time") }}
+                                <br>
+                                {{ rv.contact(class="form-control bg-transparent border-primary p-4", placeholder="Contact") }}
+                                <br>
+                                {{ rv.person(class="form-control bg-transparent border-primary p-4", placeholder="Number of persons") }}
+                                <br>
+                                {{ rv.book(class="btn btn-primary btn-block font-weight-bold py-3") }}
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Reservation End -->
+
+
+{% include "footer.html" %}

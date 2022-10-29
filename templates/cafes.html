@@ -1,0 +1,35 @@
+{% include "header.html" %}
+<div class="container-fluid bg-dark", style="height:100px; width:100%">
+</div>
+<br>
+<h2>YOU SEARCHED FOR '{{ searched}}'</h2>
+
+<div class="container">
+  {% for cafe in cafes%}
+  <div class="card">
+  <div class="card-header">
+    {{ quotes|random }}
+  </div>
+  <div class="card-body row">
+    <div class="col-2">
+      <img src="static/images/avatar-{{[1,2,3,4,5]|random}}.jpg" style="width:150px;height:150px" alt="">
+    </div>
+    <div class="col-lg-8 col-md-12">
+      <h3>{{ cafe[0] }}</h3>
+    <p class="card-title">{{ cafe[1] }} 📍{{ cafe[4] }}</p>
+    {%if cafe[2] == "Y" %}
+    <p class="card-text">POWER: 🔌</p>
+    {% endif %}
+    {%if cafe[3] == "Y" %}
+    <p class="card-text">WIFI: ⚡️</p>
+    </div>
+    
+    {% endif %}
+  </div>
+</div>
+
+{% endfor %}
+</div>
+
+
+{% include "footer.html" %}
